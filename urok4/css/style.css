@@ -1,0 +1,13 @@
+.gallery-wrap img {
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+a:hover {
+    border: blue;
+}
